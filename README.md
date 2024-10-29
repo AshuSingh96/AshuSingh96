@@ -11,7 +11,7 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 - 🌱 Currently learning advanced machine learning techniques and deepening expertise in AI.
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines.
-- 🌍 Based in Delhi, India.
+- 🌍 Based in Bhiwani, Haryana, India.
 - 📂 Explore all my projects [here](https://github.com/AshuSingh96?tab=repositories) 
 - 🔗 Visit my [Portfolio](https://hashir-sheikh-da.github.io/) for more details.
 - 📧 You can reach me at [ashusinghdabas@gmail.com](mailto:ashusinghdabas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashish-dabas-95b4ab267/) 
