@@ -37,7 +37,7 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 </h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{hashirsheikh}/count.svg" alt="Hashir's Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{AshuSingh96}/count.svg" alt="Ashish's Visitor Count" />
 </p>
 
 <hr>
