@@ -7,7 +7,7 @@
 <h4 align="center">
 Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python, and data visualization. Adept at web scraping, exploratory data analysis (EDA), and utilizing Power BI for actionable insights. Eager to contribute technical expertise and drive impactful results. Passionate about solving problems with creative thinking and making data-driven decisions. Always ready to embrace new challenges and continuously improve technical skills.</h4>
 <br/>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 Currently learning advanced machine learning techniques and deepening expertise in AI.
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines.
