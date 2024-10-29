@@ -15,7 +15,7 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 - 🌍 Based in Bhiwani, Haryana, India.
 - 📂 Explore all my projects [here](https://github.com/AshuSingh96?tab=repositories) 
 - 🔗 Visit my [Portfolio](https://hashir-sheikh-da.github.io/) for more details.
-- 📧 You can reach me at [ashusinghdabas@gmail.com](mailto:ashusinghdabas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashish-dabas-95b4ab267/) 
+- 📧 You can reach me at [ashusinghdabas@gmail.com](mailto:ashusinghdabas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashudabas96/) 
 - 📧 Contact me at [Contact Me](https://forms.gle/8FLNsQe3SuPFW4Lc9)
 <br />
 <hr>
@@ -48,7 +48,7 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
   <a href="https://github.com/AshuSingh96">
     <img align="left" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/ashish-dabas-95b4ab267/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashudabas96/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
