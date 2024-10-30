@@ -14,7 +14,6 @@ Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Based in Bhiwani, Haryana, India.
 - 📂 Explore all my projects [here](https://github.com/AshuSingh96?tab=repositories) 
-- 🔗 Visit my [Portfolio](https://hashir-sheikh-da.github.io/) for more details.
 - 🔗Hire Me [Resume](https://resume-builder-test-new.masaischool.com/resume/?resumeId=672232877ca4c4119e7587cb&profileId=self&templateName=TwoColumnMinimal&fontSize=medium) 
 - 📧 You can reach me at [ashusinghdabas@gmail.com](mailto:ashusinghdabas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashudabas96/) 
 - 📧 Contact me at [Contact Me](https://forms.gle/8FLNsQe3SuPFW4Lc9)
