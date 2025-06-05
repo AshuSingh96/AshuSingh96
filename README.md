@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ashish Dabas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=False&random=True&width=550&lines=Data+Analyst+Enthusiast+📊;Turning+Data+into+Actionable+Insights+💡;Solved+500%2B+Problems+in+Data+Science+💡)</div>](https://git.io/typing-svg )
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=False&random=True&width=550&lines=Analyst+Enthusiast+📊;Turning+Data+into+Actionable+Insights+💡;Solved+500%2B+Problems+in+Data+Science+💡)</div>](https://git.io/typing-svg )
 <hr>
 
 ### 👨‍💻 About Me:
 <h4 align="center">
-Dynamic and detail-oriented Data Analyst with a strong foundation in SQL, Python, and data visualization. Adept at web scraping, exploratory data analysis (EDA), and utilizing Power BI for actionable insights. Eager to contribute technical expertise and drive impactful results. Passionate about solving problems with creative thinking and making data-driven decisions. Always ready to embrace new challenges and continuously improve technical skills.</h4>
+Dynamic and detail-oriented Analyst with a strong foundation in SQL, Python, and data visualization. Adept at web scraping, exploratory data analysis (EDA), and utilizing Power BI for actionable insights. Eager to contribute technical expertise and drive impactful results. Passionate about solving problems with creative thinking and making data-driven decisions. Always ready to embrace new challenges and continuously improve technical skills.</h4>
 <br/>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/userupload/17316737/file/original-3437a2fd877fbce6c6d10b507a21a6ff.gif">
 
